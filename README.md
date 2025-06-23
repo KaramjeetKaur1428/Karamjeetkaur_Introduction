@@ -64,4 +64,4 @@ Check out my verified badges:
 
 _“Learning by doing, growing by giving.”_  
 Thanks for visiting! 😊
-![image alt][[https://github.com/KaramjeetKaur1428/Karamjeetkaur_Introduction/blob/e5054da6a7d808cdce6f5a2084760a413653381c/WhatsApp%20Image%202024-08-15%20at%2021.55.02_b97fb06a(1).jpg]
+![image alt][https://github.com/KaramjeetKaur1428/Karamjeetkaur_Introduction/blob/e5054da6a7d808cdce6f5a2084760a413653381c/WhatsApp%20Image%202024-08-15%20at%2021.55.02_b97fb06a(1).jpg]
